@@ -1,3 +1,3 @@
 # EPI590R repo
 
-This repository belongs to Ariana Mora
+This repository belongs to Ariana Mora.
